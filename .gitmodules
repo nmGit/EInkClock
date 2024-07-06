@@ -1,0 +1,3 @@
+[submodule "external/NGL"]
+	path = external/NGL
+	url = https://github.com/nmGit/NGL.git

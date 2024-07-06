@@ -1,0 +1,35 @@
+﻿---
+AlignConsecutiveMacros: 'true'
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+AlignEscapedNewlines: Left
+AlignOperands: 'true'
+AlignTrailingComments: 'true'
+AllowAllConstructorInitializersOnNextLine: 'true'
+AllowAllParametersOfDeclarationOnNextLine: 'true'
+AllowShortBlocksOnASingleLine: 'false'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
+AlwaysBreakAfterReturnType: None
+AlwaysBreakBeforeMultilineStrings: 'true'
+AlwaysBreakTemplateDeclarations: 'Yes'
+BinPackArguments: 'false'
+BinPackParameters: 'false'
+BreakBeforeBraces: Custom
+IncludeBlocks: Regroup
+IndentWidth: '4'
+PointerAlignment: Left
+ReflowComments: 'true'
+SortIncludes: 'true'
+SpaceBeforeInheritanceColon: 'true'
+SpaceBeforeParens: Always
+SpaceBeforeRangeBasedForLoopColon: 'true'
+SpaceInEmptyParentheses: 'true'
+SpacesInAngles: 'true'
+SpacesInParentheses: 'true'
+SpacesInSquareBrackets: 'true'
+TabWidth: '4'
+UseTab: Never
+
+...
